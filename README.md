@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br> 👨‍💻 Hey, I’m Ayoub!<br><br>🚀 Full-Stack Developer, passionate about building performant web & mobile apps .<br>💡 I craft solutions where AI meets IoT, including an intelligent e-commerce system powered by real-time emotion recognition.<br>🔐 Always exploring the frontiers of AI innovation, cybersecurity, and scalable software architecture.<br><br><br> <br><br><br>✨ Code with logic. Build with purpose. Learn without limits. ✨<br><br><br><br>
+<br> 👨‍💻 Hey, I’m Ayoub!<br><br>🚀 Full-Stack Developer, passionate about building performant web & mobile apps .<br>💡 I craft solutions where AI meets IoT, including an intelligent e-commerce system powered by real-time emotion recognition.<br>🔐 Always exploring the frontiers of AI innovation, cybersecurity, and scalable software architecture.<br><br>✨ Code with logic. Build with purpose. Learn without limits. ✨<br><br><br><br>
 
 
 ## 🌐 Socials:
